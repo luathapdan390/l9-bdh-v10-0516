@@ -1,0 +1,8 @@
+{
+  "name": "English Reading Mastery",
+  "description": "An interactive reading comprehension application for English learners featuring the Smart Phones and Teenagers passage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
